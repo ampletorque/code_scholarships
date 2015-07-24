@@ -1,0 +1,11 @@
+1. README and commit history are awesome.
+2. incomplete spec coverage, no integration testing.
+3. basic automatially created tests work with 2 exceptions on mailer spec that fail.
+4. yes, very easy to navigate!
+5. yes, works great.
+6. yes, very user friendly.
+7. [refactor]
+8. nice, clean, easy to use UI, clear purpose...
+9. a. if a scholarship is mostly funded (99.x%) it shows as 100% funded on the scholarship-list screen, and only correctly shows 99.x% on scholarship detail screen.
+   b. if you don't complete payment / charge is refused / you cancel the payment, it still shows the payment applied to the scholarship.
+10. y'all rock!
